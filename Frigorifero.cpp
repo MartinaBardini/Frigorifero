@@ -8,7 +8,7 @@
  * File:   Frigorifero.cpp
  * Author: martinabardini
  * 
- * Created on 8 marzo 2018, 18.33
+ * Created on 45 marzo 2018, 18.33
  */
 
 #include "Frigorifero.h"
